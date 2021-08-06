@@ -1,6 +1,6 @@
 # Spanning Tree Protocol
 
-The goal of this project is to implement a simplified, distributed version of the <a href="https://en.wikipedia.org/wiki/Spanning_Tree_Protocol">Spanning Tree Protocol (STP)</a> for arbitrary layer 2 topologies. STP can be used to prevent forwarding loops on a layer 2 network.
+This project aims to implement a simplified, distributed version of the <a href="https://en.wikipedia.org/wiki/Spanning_Tree_Protocol">Spanning Tree Protocol (STP)</a>  for arbitrary layer 2 topologies. STP can be used to prevent forwarding loops on a layer 2 network.
 
 `switch.py` represents a layer 2 switch that implements STP.
 
